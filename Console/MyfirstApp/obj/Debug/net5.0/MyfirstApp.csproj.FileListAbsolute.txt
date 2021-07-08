@@ -1,0 +1,16 @@
+/home/mario/C#/Console/MyfirstApp/bin/Debug/net5.0/MyfirstApp
+/home/mario/C#/Console/MyfirstApp/bin/Debug/net5.0/MyfirstApp.deps.json
+/home/mario/C#/Console/MyfirstApp/bin/Debug/net5.0/MyfirstApp.runtimeconfig.json
+/home/mario/C#/Console/MyfirstApp/bin/Debug/net5.0/MyfirstApp.runtimeconfig.dev.json
+/home/mario/C#/Console/MyfirstApp/bin/Debug/net5.0/MyfirstApp.dll
+/home/mario/C#/Console/MyfirstApp/bin/Debug/net5.0/ref/MyfirstApp.dll
+/home/mario/C#/Console/MyfirstApp/bin/Debug/net5.0/MyfirstApp.pdb
+/home/mario/C#/Console/MyfirstApp/obj/Debug/net5.0/MyfirstApp.csproj.AssemblyReference.cache
+/home/mario/C#/Console/MyfirstApp/obj/Debug/net5.0/MyfirstApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/mario/C#/Console/MyfirstApp/obj/Debug/net5.0/MyfirstApp.AssemblyInfoInputs.cache
+/home/mario/C#/Console/MyfirstApp/obj/Debug/net5.0/MyfirstApp.AssemblyInfo.cs
+/home/mario/C#/Console/MyfirstApp/obj/Debug/net5.0/MyfirstApp.csproj.CoreCompileInputs.cache
+/home/mario/C#/Console/MyfirstApp/obj/Debug/net5.0/MyfirstApp.dll
+/home/mario/C#/Console/MyfirstApp/obj/Debug/net5.0/ref/MyfirstApp.dll
+/home/mario/C#/Console/MyfirstApp/obj/Debug/net5.0/MyfirstApp.pdb
+/home/mario/C#/Console/MyfirstApp/obj/Debug/net5.0/MyfirstApp.genruntimeconfig.cache
