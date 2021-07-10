@@ -1,0 +1,16 @@
+/home/mario/C#/CS-Tutorial/Console/dataTypes/bin/Debug/net5.0/dataTypes
+/home/mario/C#/CS-Tutorial/Console/dataTypes/bin/Debug/net5.0/dataTypes.deps.json
+/home/mario/C#/CS-Tutorial/Console/dataTypes/bin/Debug/net5.0/dataTypes.runtimeconfig.json
+/home/mario/C#/CS-Tutorial/Console/dataTypes/bin/Debug/net5.0/dataTypes.runtimeconfig.dev.json
+/home/mario/C#/CS-Tutorial/Console/dataTypes/bin/Debug/net5.0/dataTypes.dll
+/home/mario/C#/CS-Tutorial/Console/dataTypes/bin/Debug/net5.0/ref/dataTypes.dll
+/home/mario/C#/CS-Tutorial/Console/dataTypes/bin/Debug/net5.0/dataTypes.pdb
+/home/mario/C#/CS-Tutorial/Console/dataTypes/obj/Debug/net5.0/dataTypes.csproj.AssemblyReference.cache
+/home/mario/C#/CS-Tutorial/Console/dataTypes/obj/Debug/net5.0/dataTypes.GeneratedMSBuildEditorConfig.editorconfig
+/home/mario/C#/CS-Tutorial/Console/dataTypes/obj/Debug/net5.0/dataTypes.AssemblyInfoInputs.cache
+/home/mario/C#/CS-Tutorial/Console/dataTypes/obj/Debug/net5.0/dataTypes.AssemblyInfo.cs
+/home/mario/C#/CS-Tutorial/Console/dataTypes/obj/Debug/net5.0/dataTypes.csproj.CoreCompileInputs.cache
+/home/mario/C#/CS-Tutorial/Console/dataTypes/obj/Debug/net5.0/dataTypes.dll
+/home/mario/C#/CS-Tutorial/Console/dataTypes/obj/Debug/net5.0/ref/dataTypes.dll
+/home/mario/C#/CS-Tutorial/Console/dataTypes/obj/Debug/net5.0/dataTypes.pdb
+/home/mario/C#/CS-Tutorial/Console/dataTypes/obj/Debug/net5.0/dataTypes.genruntimeconfig.cache

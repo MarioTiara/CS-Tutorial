@@ -1,0 +1,16 @@
+/home/mario/C#/CS-Tutorial/Console/WorkingOnString/bin/Debug/net5.0/WorkingOnString
+/home/mario/C#/CS-Tutorial/Console/WorkingOnString/bin/Debug/net5.0/WorkingOnString.deps.json
+/home/mario/C#/CS-Tutorial/Console/WorkingOnString/bin/Debug/net5.0/WorkingOnString.runtimeconfig.json
+/home/mario/C#/CS-Tutorial/Console/WorkingOnString/bin/Debug/net5.0/WorkingOnString.runtimeconfig.dev.json
+/home/mario/C#/CS-Tutorial/Console/WorkingOnString/bin/Debug/net5.0/WorkingOnString.dll
+/home/mario/C#/CS-Tutorial/Console/WorkingOnString/bin/Debug/net5.0/ref/WorkingOnString.dll
+/home/mario/C#/CS-Tutorial/Console/WorkingOnString/bin/Debug/net5.0/WorkingOnString.pdb
+/home/mario/C#/CS-Tutorial/Console/WorkingOnString/obj/Debug/net5.0/WorkingOnString.csproj.AssemblyReference.cache
+/home/mario/C#/CS-Tutorial/Console/WorkingOnString/obj/Debug/net5.0/WorkingOnString.GeneratedMSBuildEditorConfig.editorconfig
+/home/mario/C#/CS-Tutorial/Console/WorkingOnString/obj/Debug/net5.0/WorkingOnString.AssemblyInfoInputs.cache
+/home/mario/C#/CS-Tutorial/Console/WorkingOnString/obj/Debug/net5.0/WorkingOnString.AssemblyInfo.cs
+/home/mario/C#/CS-Tutorial/Console/WorkingOnString/obj/Debug/net5.0/WorkingOnString.csproj.CoreCompileInputs.cache
+/home/mario/C#/CS-Tutorial/Console/WorkingOnString/obj/Debug/net5.0/WorkingOnString.dll
+/home/mario/C#/CS-Tutorial/Console/WorkingOnString/obj/Debug/net5.0/ref/WorkingOnString.dll
+/home/mario/C#/CS-Tutorial/Console/WorkingOnString/obj/Debug/net5.0/WorkingOnString.pdb
+/home/mario/C#/CS-Tutorial/Console/WorkingOnString/obj/Debug/net5.0/WorkingOnString.genruntimeconfig.cache

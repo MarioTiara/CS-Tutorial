@@ -1,0 +1,16 @@
+/home/mario/C#/CS-Tutorial/Console/Switch/bin/Debug/net5.0/Switch
+/home/mario/C#/CS-Tutorial/Console/Switch/bin/Debug/net5.0/Switch.deps.json
+/home/mario/C#/CS-Tutorial/Console/Switch/bin/Debug/net5.0/Switch.runtimeconfig.json
+/home/mario/C#/CS-Tutorial/Console/Switch/bin/Debug/net5.0/Switch.runtimeconfig.dev.json
+/home/mario/C#/CS-Tutorial/Console/Switch/bin/Debug/net5.0/Switch.dll
+/home/mario/C#/CS-Tutorial/Console/Switch/bin/Debug/net5.0/ref/Switch.dll
+/home/mario/C#/CS-Tutorial/Console/Switch/bin/Debug/net5.0/Switch.pdb
+/home/mario/C#/CS-Tutorial/Console/Switch/obj/Debug/net5.0/Switch.csproj.AssemblyReference.cache
+/home/mario/C#/CS-Tutorial/Console/Switch/obj/Debug/net5.0/Switch.GeneratedMSBuildEditorConfig.editorconfig
+/home/mario/C#/CS-Tutorial/Console/Switch/obj/Debug/net5.0/Switch.AssemblyInfoInputs.cache
+/home/mario/C#/CS-Tutorial/Console/Switch/obj/Debug/net5.0/Switch.AssemblyInfo.cs
+/home/mario/C#/CS-Tutorial/Console/Switch/obj/Debug/net5.0/Switch.csproj.CoreCompileInputs.cache
+/home/mario/C#/CS-Tutorial/Console/Switch/obj/Debug/net5.0/Switch.dll
+/home/mario/C#/CS-Tutorial/Console/Switch/obj/Debug/net5.0/ref/Switch.dll
+/home/mario/C#/CS-Tutorial/Console/Switch/obj/Debug/net5.0/Switch.pdb
+/home/mario/C#/CS-Tutorial/Console/Switch/obj/Debug/net5.0/Switch.genruntimeconfig.cache

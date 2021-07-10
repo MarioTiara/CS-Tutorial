@@ -1,0 +1,16 @@
+/home/mario/C#/CS-Tutorial/Console/UserInput/bin/Debug/net5.0/UserInput
+/home/mario/C#/CS-Tutorial/Console/UserInput/bin/Debug/net5.0/UserInput.deps.json
+/home/mario/C#/CS-Tutorial/Console/UserInput/bin/Debug/net5.0/UserInput.runtimeconfig.json
+/home/mario/C#/CS-Tutorial/Console/UserInput/bin/Debug/net5.0/UserInput.runtimeconfig.dev.json
+/home/mario/C#/CS-Tutorial/Console/UserInput/bin/Debug/net5.0/UserInput.dll
+/home/mario/C#/CS-Tutorial/Console/UserInput/bin/Debug/net5.0/ref/UserInput.dll
+/home/mario/C#/CS-Tutorial/Console/UserInput/bin/Debug/net5.0/UserInput.pdb
+/home/mario/C#/CS-Tutorial/Console/UserInput/obj/Debug/net5.0/UserInput.csproj.AssemblyReference.cache
+/home/mario/C#/CS-Tutorial/Console/UserInput/obj/Debug/net5.0/UserInput.GeneratedMSBuildEditorConfig.editorconfig
+/home/mario/C#/CS-Tutorial/Console/UserInput/obj/Debug/net5.0/UserInput.AssemblyInfoInputs.cache
+/home/mario/C#/CS-Tutorial/Console/UserInput/obj/Debug/net5.0/UserInput.AssemblyInfo.cs
+/home/mario/C#/CS-Tutorial/Console/UserInput/obj/Debug/net5.0/UserInput.csproj.CoreCompileInputs.cache
+/home/mario/C#/CS-Tutorial/Console/UserInput/obj/Debug/net5.0/UserInput.dll
+/home/mario/C#/CS-Tutorial/Console/UserInput/obj/Debug/net5.0/ref/UserInput.dll
+/home/mario/C#/CS-Tutorial/Console/UserInput/obj/Debug/net5.0/UserInput.pdb
+/home/mario/C#/CS-Tutorial/Console/UserInput/obj/Debug/net5.0/UserInput.genruntimeconfig.cache

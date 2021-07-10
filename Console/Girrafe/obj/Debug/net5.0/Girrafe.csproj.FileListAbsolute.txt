@@ -1,0 +1,16 @@
+/home/mario/C#/CS-Tutorial/Console/Girrafe/bin/Debug/net5.0/Girrafe
+/home/mario/C#/CS-Tutorial/Console/Girrafe/bin/Debug/net5.0/Girrafe.deps.json
+/home/mario/C#/CS-Tutorial/Console/Girrafe/bin/Debug/net5.0/Girrafe.runtimeconfig.json
+/home/mario/C#/CS-Tutorial/Console/Girrafe/bin/Debug/net5.0/Girrafe.runtimeconfig.dev.json
+/home/mario/C#/CS-Tutorial/Console/Girrafe/bin/Debug/net5.0/Girrafe.dll
+/home/mario/C#/CS-Tutorial/Console/Girrafe/bin/Debug/net5.0/ref/Girrafe.dll
+/home/mario/C#/CS-Tutorial/Console/Girrafe/bin/Debug/net5.0/Girrafe.pdb
+/home/mario/C#/CS-Tutorial/Console/Girrafe/obj/Debug/net5.0/Girrafe.csproj.AssemblyReference.cache
+/home/mario/C#/CS-Tutorial/Console/Girrafe/obj/Debug/net5.0/Girrafe.GeneratedMSBuildEditorConfig.editorconfig
+/home/mario/C#/CS-Tutorial/Console/Girrafe/obj/Debug/net5.0/Girrafe.AssemblyInfoInputs.cache
+/home/mario/C#/CS-Tutorial/Console/Girrafe/obj/Debug/net5.0/Girrafe.AssemblyInfo.cs
+/home/mario/C#/CS-Tutorial/Console/Girrafe/obj/Debug/net5.0/Girrafe.csproj.CoreCompileInputs.cache
+/home/mario/C#/CS-Tutorial/Console/Girrafe/obj/Debug/net5.0/Girrafe.dll
+/home/mario/C#/CS-Tutorial/Console/Girrafe/obj/Debug/net5.0/ref/Girrafe.dll
+/home/mario/C#/CS-Tutorial/Console/Girrafe/obj/Debug/net5.0/Girrafe.pdb
+/home/mario/C#/CS-Tutorial/Console/Girrafe/obj/Debug/net5.0/Girrafe.genruntimeconfig.cache

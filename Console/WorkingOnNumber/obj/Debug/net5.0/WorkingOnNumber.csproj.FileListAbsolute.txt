@@ -1,0 +1,16 @@
+/home/mario/C#/CS-Tutorial/Console/WorkingOnNumber/obj/Debug/net5.0/WorkingOnNumber.csproj.AssemblyReference.cache
+/home/mario/C#/CS-Tutorial/Console/WorkingOnNumber/obj/Debug/net5.0/WorkingOnNumber.GeneratedMSBuildEditorConfig.editorconfig
+/home/mario/C#/CS-Tutorial/Console/WorkingOnNumber/obj/Debug/net5.0/WorkingOnNumber.AssemblyInfoInputs.cache
+/home/mario/C#/CS-Tutorial/Console/WorkingOnNumber/obj/Debug/net5.0/WorkingOnNumber.AssemblyInfo.cs
+/home/mario/C#/CS-Tutorial/Console/WorkingOnNumber/obj/Debug/net5.0/WorkingOnNumber.csproj.CoreCompileInputs.cache
+/home/mario/C#/CS-Tutorial/Console/WorkingOnNumber/bin/Debug/net5.0/WorkingOnNumber
+/home/mario/C#/CS-Tutorial/Console/WorkingOnNumber/bin/Debug/net5.0/WorkingOnNumber.deps.json
+/home/mario/C#/CS-Tutorial/Console/WorkingOnNumber/bin/Debug/net5.0/WorkingOnNumber.runtimeconfig.json
+/home/mario/C#/CS-Tutorial/Console/WorkingOnNumber/bin/Debug/net5.0/WorkingOnNumber.runtimeconfig.dev.json
+/home/mario/C#/CS-Tutorial/Console/WorkingOnNumber/bin/Debug/net5.0/WorkingOnNumber.dll
+/home/mario/C#/CS-Tutorial/Console/WorkingOnNumber/bin/Debug/net5.0/ref/WorkingOnNumber.dll
+/home/mario/C#/CS-Tutorial/Console/WorkingOnNumber/bin/Debug/net5.0/WorkingOnNumber.pdb
+/home/mario/C#/CS-Tutorial/Console/WorkingOnNumber/obj/Debug/net5.0/WorkingOnNumber.dll
+/home/mario/C#/CS-Tutorial/Console/WorkingOnNumber/obj/Debug/net5.0/ref/WorkingOnNumber.dll
+/home/mario/C#/CS-Tutorial/Console/WorkingOnNumber/obj/Debug/net5.0/WorkingOnNumber.pdb
+/home/mario/C#/CS-Tutorial/Console/WorkingOnNumber/obj/Debug/net5.0/WorkingOnNumber.genruntimeconfig.cache

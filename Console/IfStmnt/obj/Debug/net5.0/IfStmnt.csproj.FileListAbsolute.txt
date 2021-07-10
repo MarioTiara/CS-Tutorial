@@ -1,0 +1,16 @@
+/home/mario/C#/CS-Tutorial/Console/IfStmnt/bin/Debug/net5.0/IfStmnt
+/home/mario/C#/CS-Tutorial/Console/IfStmnt/bin/Debug/net5.0/IfStmnt.deps.json
+/home/mario/C#/CS-Tutorial/Console/IfStmnt/bin/Debug/net5.0/IfStmnt.runtimeconfig.json
+/home/mario/C#/CS-Tutorial/Console/IfStmnt/bin/Debug/net5.0/IfStmnt.runtimeconfig.dev.json
+/home/mario/C#/CS-Tutorial/Console/IfStmnt/bin/Debug/net5.0/IfStmnt.dll
+/home/mario/C#/CS-Tutorial/Console/IfStmnt/bin/Debug/net5.0/ref/IfStmnt.dll
+/home/mario/C#/CS-Tutorial/Console/IfStmnt/bin/Debug/net5.0/IfStmnt.pdb
+/home/mario/C#/CS-Tutorial/Console/IfStmnt/obj/Debug/net5.0/IfStmnt.csproj.AssemblyReference.cache
+/home/mario/C#/CS-Tutorial/Console/IfStmnt/obj/Debug/net5.0/IfStmnt.GeneratedMSBuildEditorConfig.editorconfig
+/home/mario/C#/CS-Tutorial/Console/IfStmnt/obj/Debug/net5.0/IfStmnt.AssemblyInfoInputs.cache
+/home/mario/C#/CS-Tutorial/Console/IfStmnt/obj/Debug/net5.0/IfStmnt.AssemblyInfo.cs
+/home/mario/C#/CS-Tutorial/Console/IfStmnt/obj/Debug/net5.0/IfStmnt.csproj.CoreCompileInputs.cache
+/home/mario/C#/CS-Tutorial/Console/IfStmnt/obj/Debug/net5.0/IfStmnt.dll
+/home/mario/C#/CS-Tutorial/Console/IfStmnt/obj/Debug/net5.0/ref/IfStmnt.dll
+/home/mario/C#/CS-Tutorial/Console/IfStmnt/obj/Debug/net5.0/IfStmnt.pdb
+/home/mario/C#/CS-Tutorial/Console/IfStmnt/obj/Debug/net5.0/IfStmnt.genruntimeconfig.cache

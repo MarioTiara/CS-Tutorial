@@ -1,0 +1,16 @@
+/home/mario/C#/CS-Tutorial/Console/Methode/bin/Debug/net5.0/Methode
+/home/mario/C#/CS-Tutorial/Console/Methode/bin/Debug/net5.0/Methode.deps.json
+/home/mario/C#/CS-Tutorial/Console/Methode/bin/Debug/net5.0/Methode.runtimeconfig.json
+/home/mario/C#/CS-Tutorial/Console/Methode/bin/Debug/net5.0/Methode.runtimeconfig.dev.json
+/home/mario/C#/CS-Tutorial/Console/Methode/bin/Debug/net5.0/Methode.dll
+/home/mario/C#/CS-Tutorial/Console/Methode/bin/Debug/net5.0/ref/Methode.dll
+/home/mario/C#/CS-Tutorial/Console/Methode/bin/Debug/net5.0/Methode.pdb
+/home/mario/C#/CS-Tutorial/Console/Methode/obj/Debug/net5.0/Methode.csproj.AssemblyReference.cache
+/home/mario/C#/CS-Tutorial/Console/Methode/obj/Debug/net5.0/Methode.GeneratedMSBuildEditorConfig.editorconfig
+/home/mario/C#/CS-Tutorial/Console/Methode/obj/Debug/net5.0/Methode.AssemblyInfoInputs.cache
+/home/mario/C#/CS-Tutorial/Console/Methode/obj/Debug/net5.0/Methode.AssemblyInfo.cs
+/home/mario/C#/CS-Tutorial/Console/Methode/obj/Debug/net5.0/Methode.csproj.CoreCompileInputs.cache
+/home/mario/C#/CS-Tutorial/Console/Methode/obj/Debug/net5.0/Methode.dll
+/home/mario/C#/CS-Tutorial/Console/Methode/obj/Debug/net5.0/ref/Methode.dll
+/home/mario/C#/CS-Tutorial/Console/Methode/obj/Debug/net5.0/Methode.pdb
+/home/mario/C#/CS-Tutorial/Console/Methode/obj/Debug/net5.0/Methode.genruntimeconfig.cache

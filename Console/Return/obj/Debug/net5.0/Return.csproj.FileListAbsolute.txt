@@ -1,0 +1,16 @@
+/home/mario/C#/CS-Tutorial/Console/Return/bin/Debug/net5.0/Return
+/home/mario/C#/CS-Tutorial/Console/Return/bin/Debug/net5.0/Return.deps.json
+/home/mario/C#/CS-Tutorial/Console/Return/bin/Debug/net5.0/Return.runtimeconfig.json
+/home/mario/C#/CS-Tutorial/Console/Return/bin/Debug/net5.0/Return.runtimeconfig.dev.json
+/home/mario/C#/CS-Tutorial/Console/Return/bin/Debug/net5.0/Return.dll
+/home/mario/C#/CS-Tutorial/Console/Return/bin/Debug/net5.0/ref/Return.dll
+/home/mario/C#/CS-Tutorial/Console/Return/bin/Debug/net5.0/Return.pdb
+/home/mario/C#/CS-Tutorial/Console/Return/obj/Debug/net5.0/Return.csproj.AssemblyReference.cache
+/home/mario/C#/CS-Tutorial/Console/Return/obj/Debug/net5.0/Return.GeneratedMSBuildEditorConfig.editorconfig
+/home/mario/C#/CS-Tutorial/Console/Return/obj/Debug/net5.0/Return.AssemblyInfoInputs.cache
+/home/mario/C#/CS-Tutorial/Console/Return/obj/Debug/net5.0/Return.AssemblyInfo.cs
+/home/mario/C#/CS-Tutorial/Console/Return/obj/Debug/net5.0/Return.csproj.CoreCompileInputs.cache
+/home/mario/C#/CS-Tutorial/Console/Return/obj/Debug/net5.0/Return.dll
+/home/mario/C#/CS-Tutorial/Console/Return/obj/Debug/net5.0/ref/Return.dll
+/home/mario/C#/CS-Tutorial/Console/Return/obj/Debug/net5.0/Return.pdb
+/home/mario/C#/CS-Tutorial/Console/Return/obj/Debug/net5.0/Return.genruntimeconfig.cache
